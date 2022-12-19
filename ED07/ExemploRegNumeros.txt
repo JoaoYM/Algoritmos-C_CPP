@@ -1,0 +1,2 @@
+
+Cadeia de caracteres: 123789 	 Numero de Digitos >= 7: 3 

@@ -1,0 +1,2 @@
+
+Cadeia de caracteres: ABCabc 	 Numero total de caracteres maiusculas: 3 
